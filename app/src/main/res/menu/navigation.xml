@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_inicio"
+        android:icon="@drawable/home"
+        android:title="@string/title_inicio" />
+
+    <item
+        android:id="@+id/navigation_horario"
+        android:icon="@drawable/calendar_clock"
+        android:title="@string/title_horario" />
+
+    <item
+        android:id="@+id/navigation_servico"
+        android:icon="@drawable/clipboard_text"
+        android:title="@string/title_servico" />
+
+    <item
+        android:id="@+id/navigation_cliente"
+        android:icon="@drawable/contacts"
+        android:title="@string/title_cliente" />
+
+    <item
+        android:id="@+id/navigation_relatorio"
+        android:icon="@drawable/trending_up"
+        android:title="@string/title_relatorio" />
+
+</menu>
